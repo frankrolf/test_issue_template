@@ -1,0 +1,3 @@
+- [ ] why do you request this feature?
+- [ ] who will use the feature beyond yourself?
+- [ ] how can you help?
